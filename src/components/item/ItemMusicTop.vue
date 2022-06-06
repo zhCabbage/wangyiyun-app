@@ -199,6 +199,7 @@ export default {
             justify-content: space-between;
 
             span {
+                width: 95%;
                 color: #ccc;
                 font-size: .24rem;
                 text-overflow: -o-ellipsis-lastline;
@@ -211,9 +212,10 @@ export default {
             }
 
             .icon {
+                width: 5%;
                 fill: #ccc;
-                width: .4rem;
-                height: .4rem;
+                width: .3rem;
+                height: .3rem;
             }
         }
     }
